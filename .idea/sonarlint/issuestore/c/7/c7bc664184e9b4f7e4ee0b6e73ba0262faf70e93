@@ -1,0 +1,10 @@
+
+“
+java:S1319A"qThe type of the "metaNapad" object should be an interface such as "Map" rather than the implementation "HashMap".(‘ÌëÉùÿÿÿÿ8ÊÖÅå.
+•
+java:S13197"sThe return type of this method should be an interface such as "SortedSet" rather than the implementation "TreeSet".(õô¡Åúÿÿÿÿ8¼ëªÅå.
+E	java:S108C")Either remove or fill this block of code.(ÆÍîĞ8ãÃãÅå.
+P
+java:S2864F"4Iterate over the "entrySet" instead of the "keySet".(šô¤8óÉéÅå.
+H
+java:S11688"+Return an empty collection instead of null.(¥¹ï8¤å®Åå.
